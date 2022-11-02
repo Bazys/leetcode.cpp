@@ -2,17 +2,18 @@
 #define _HEADERS_H_
 
 // c++ stl libraries
-#include <iostream>
-#include <string>
-#include <vector>
 #include <algorithm>
+#include <iostream>
+#include <list>
 #include <map>
-#include <set>
-#include <unordered_set>
-#include <unordered_map>
-#include <stack>
-#include <queue>
 #include <numeric>
+#include <queue>
+#include <set>
+#include <stack>
+#include <string>
+#include <unordered_map>
+#include <unordered_set>
+#include <vector>
 
 // c libraries
 #include <cctype>
@@ -26,4 +27,4 @@
 // listnode
 #include "listnode.h"
 
-#endif // !_HEADERS_H_
+#endif  // !_HEADERS_H_
